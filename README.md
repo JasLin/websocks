@@ -54,3 +54,5 @@ https://websocks.org {
   }
 }
 ```
+# how to build
+./
